@@ -1,0 +1,18 @@
+let suggestions = [
+    "Goleiro de futebol",
+    "Atacante de futebol",
+    "Zagueiro de futebol",
+    "Lateral Esquerdo de futebol",
+    "Lateral Direito de futebol",
+    "Ponta Esquerda de futebol",
+    "Ponta Direita de futebol",
+    "Meio-campo Armador de futebol",
+    "Meio-campo Central de futebol",
+    "Meio-campo Direita de futebol",
+    "Meio-campo Esquerda de futebol",
+    "Pivô de basquete",
+    "Ala-pivô de basquete",
+    "Ala de basquete",
+    "Armador de basquete",
+    "youtube",
+];
